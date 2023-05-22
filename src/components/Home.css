@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+main {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+main h1 {
+  padding-top: 4rem;
+  font-size: large;
+  text-align: center;
+  color: var(--secondary-color);
+}
+main h2 {
+  padding-bottom: 3rem;
+  text-align: center;
+  color: var(--secondary-color);
+}
+
+main #main-container {
+  background-image: url("/Background.png");
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh;
+}
+
+main a {
+  margin-top: 1rem;
+  margin-left: 48%;
+  font-weight: 700;
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+main a:hover{
+font-weight:900;
+  transition: all 0.5s;
+}
+.secondary-container{
+  padding: 2rem;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 2rem;
+}
+.secondary-container h3{
+  margin-top: 10rem;
+  width: 16rem;
+  text-align: center;
+  color: var(--secondary-color)
+}

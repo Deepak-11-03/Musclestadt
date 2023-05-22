@@ -1,0 +1,46 @@
+footer{
+    height: 6rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: var(--primary-color);
+    background-color: rgb(43, 43, 43);
+}
+footer .page-links ul{
+    padding: 8px;
+ list-style: none;
+}
+footer .page-links ul li{
+    cursor: pointer;
+}
+
+.page-links ul li a{
+    text-decoration: none;
+    color: inherit;
+}
+.page-links ul li::after {
+    content: "";
+    margin: 0.2rem  0;
+    display: block;
+    width: 0;
+    height: 2px;
+    background: var(--primary-color);
+    transition: width 0.5s;
+  }
+.page-links ul li:hover::after {
+    width: 100%;
+}
+
+footer .social-links svg{
+    margin: 3px;
+    margin-top: 10px;
+    font-size: 28px;
+    cursor: pointer;
+    transition: all .5s;
+    cursor: pointer;
+}
+footer .social-links svg:hover{
+   transform: scale(1.3);
+   transition: all .5s;
+}

@@ -1,0 +1,14 @@
+.about {
+  min-height: 70vh;
+  text-align: center;
+}
+#images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.about #images img {
+  height: 12rem;
+}

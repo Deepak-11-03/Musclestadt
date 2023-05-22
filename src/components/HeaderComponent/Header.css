@@ -1,0 +1,46 @@
+header{
+    padding: 5px 1rem 8px 0;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+    background-color: aliceblue;
+    z-index: 15;
+}
+header nav{
+    padding-right: 1rem;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    list-style: none;
+}
+header nav ul li{
+    padding: 4px;
+    width: 5rem;
+    text-align: center;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.2vmax;
+}
+nav ul li::after {
+    content: "";
+    margin: 0.2rem;
+    display: block;
+    width: 0;
+    height: 2px;
+    background: var(--primary-color);
+    transition: width 0.5s;
+  }
+  nav ul li:hover::after {
+    width: 100%;
+  }
+nav ul li a {
+    padding: 4px;
+    text-decoration: none;
+    color: inherit;
+}

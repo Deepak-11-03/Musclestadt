@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+  --primary-color:#7cc68d;
+  --secondary-color:#37964d;
+}
+
+html,
+body {
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+.App{
+  min-height: 100vh;
+}
