@@ -3,11 +3,13 @@
   text-align: center;
 }
 #images {
+  margin-top: 2rem;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+  gap: 3rem;
 }
 .about #images img {
   height: 12rem;

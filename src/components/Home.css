@@ -38,6 +38,7 @@ font-weight:900;
 }
 .secondary-container{
   padding: 2rem;
+  margin-top: 2rem;
   display: flex;
   justify-content: space-evenly;
   flex-direction: row;
@@ -46,7 +47,8 @@ font-weight:900;
 }
 .secondary-container h3{
   margin-top: 10rem;
-  width: 16rem;
+  width: 24rem;
   text-align: center;
+  font-size: 2vmax;
   color: var(--secondary-color)
 }

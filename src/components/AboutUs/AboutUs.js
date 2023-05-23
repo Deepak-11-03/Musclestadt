@@ -15,11 +15,11 @@ function AboutUs() {
 
     <br />
     <div id='images'>
-    <img src="https://res.cloudinary.com/djpee6nuc/image/upload/v1684757950/beauty_smoothie_powder_jv2f1l.png" alt="" />
+    <img src="https://res.cloudinary.com/djpee6nuc/image/upload/v1684825361/beauty_smoothie_powder_ozju47.jpg" alt="smoothie powder" />
     <AiOutlineRight/>
-    <img src="https://res.cloudinary.com/djpee6nuc/image/upload/v1684757880/Artboard_10-1_augogu.png" alt="" />
+    <img src="https://res.cloudinary.com/djpee6nuc/image/upload/v1684825361/Artboard_10-1_tbxofd.jpg" alt="smoothie" />
     <AiOutlineRight/>
-    <img src="https://res.cloudinary.com/djpee6nuc/image/upload/v1684758113/beauty_smoothie_ukte3g.jpg" alt="" />
+    <img src="https://res.cloudinary.com/djpee6nuc/image/upload/v1684825374/beauty_smoothie_1_-min_zw0nau.jpg" alt="nutrition facts" />
     </div>
     </main>
   )

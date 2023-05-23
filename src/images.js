@@ -1,14 +1,14 @@
 const images=[
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738393/veganhof_immunity_hf9bji.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738393/veganhof_foy_tn7jof.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738393/veganhof_PROTEIN_r4fklf.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738392/tropical_punch_dgkbce.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738391/red_berries_yriaob.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738391/nordic_berries_ptjhxq.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738388/BEAUTY_SMOOTHIE__alps_n3gyzv.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738389/BEAUTY_SMOOTHIE_paris_vy3uij.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738390/essential_greens_qx3wo7.png",
-    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684738389/detox_alps_sf2ql3.png"
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824756/veganhof_foy_activity_yisj44.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824756/veganhof_PROTEIN_vatt2h.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824756/veganhof_WITH_REAL_PICTURE_1_cdtjfi.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824756/veganhof_immunity_jznouz.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824755/red_berries_ggbsdr.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824754/nordic_berries_owozje.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824755/tropical_punch_lgccil.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824754/protein_smoothie_exotic_berries_isctzx.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824753/detox_detoxbg_qxlvke.jpg",
+    "https://res.cloudinary.com/djpee6nuc/image/upload/v1684824753/BEAUTY_SMOOTHIE__alps_lcuh2s.jpg"
 
 ]
 export default images
