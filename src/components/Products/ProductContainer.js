@@ -8,7 +8,7 @@ function ProductContainer({num}) {
     {images.slice(0, num).map((item,index)=>{
       return(
         <div className='product-container' key={index}>
-        <img className='products' src={item} alt=""  />
+        <img className='products' src={item} alt={"image"+index}  />
         <button>Buy Now</button>
         </div>
       )

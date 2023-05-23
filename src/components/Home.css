@@ -52,3 +52,6 @@ font-weight:900;
   font-size: 2vmax;
   color: var(--secondary-color)
 }
+.secondary-container img{
+  height: 30rem;
+}
